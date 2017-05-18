@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";
+body {
+    background-color: #f2f2f2;
+
+}
+section {
+    border-collapse: collapse;
+}
+section, header {
+   border: 1px solid black;
+}
+header {
+	font-weight: bold;
+    height: 50px;
+    vertical-align: bottom;
+}
+div {
+	color: #404040;
+}
+h1,h2 {
+	color: #666666;
+}
